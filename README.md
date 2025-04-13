@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1Uk6CVdnwPm-i97VbbZbn3FjRw0t44v4F/view?usp=shari
 ## Setup:  
 Clone this repository:  
 ```
-git clone https://github.com/tejas-54/Visual-Search-Engine-Using-VLM.git
+git clone https://github.com/Shiva-74/Visual-Search-Engine-Using-VLM.git
 cd visual-search-vlm
 ```
 Install dependencies::  
